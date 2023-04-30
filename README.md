@@ -1,5 +1,8 @@
 # Resume
 My personal Resume/Portofolio
+# Chat Support
+You can contact me directly from this website using the chat.
+  ![image](https://user-images.githubusercontent.com/120386306/235329134-b48bd12d-72d0-4ceb-9ea6-578c143fadfc.png)
 
 # Where is it?
 
